@@ -1,5 +1,3 @@
-<img scr="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-
 <h1 align="center">Hi 👋, I'm Muhammad Haaris</h1>
 <h3 align="center">Software Developer @ WebHR</h3>
 
