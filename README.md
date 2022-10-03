@@ -1,5 +1,7 @@
+<img scr="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
 <h1 align="center">Hi 👋, I'm Muhammad Haaris</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Developer @ WebHR</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haarisvs&label=Profile%20views&color=0e75b6&style=flat" alt="haarisvs" /> </p>
 
