@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haaris</h1>
 <h3 align="center">Software Developer @ WebHR</h3>
+<h5>I'm a passionate software developer with a keen interest in building high-quality, scalable applications using cutting-edge technologies. I have experience in full-stack development, from frontend to backend, and I am always on the lookout for new challenges to hone my skills.
+
+My Github profile is a reflection of my dedication to open-source development and collaboration. I enjoy working on projects that can have a positive impact on people's lives and contribute to the greater good. I have a strong foundation in programming languages such as PHP, JavaScript, and Python, and I'm always learning new things.
+
+In my spare time, I enjoy to participating in hackathons, and writing technical articles. My goal is to make technology more accessible and inclusive for everyone. </h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haarisvs&label=Profile%20views&color=0e75b6&style=flat" alt="haarisvs" /> </p>
 
