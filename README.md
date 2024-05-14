@@ -12,13 +12,13 @@ In my spare time, I enjoy to participating in hackathons, and writing technical 
 
 <p align="left"> <a href="https://twitter.com/syedhaaris97" target="blank"><img src="https://img.shields.io/twitter/follow/syedhaaris97?logo=twitter&style=for-the-badge" alt="syedhaaris97" /></a> </p>
 
-- 🔭 I’m currently working on [WebHR, GoToCampus](https://web.hr/)
+- 🔭 I’m currently working with [Aime](https://aime.global/)
 
-- 🌱 I’m currently learning **blockchain Ethereum Development**
+- 🌱 I’m currently looking for research and development in **blockchain, Machine Learning and Data Science**
 
-- 👯 I’m looking to collaborate on **Blockchain dApps**
+- 👯 I’m looking to collaborate on **Blockchain dApps, AI research and development**
 
-- 💬 Ask me about **PHP, Laravel, MYSQL, JavaScript, React, NodeJS and Blockchain**
+- 💬 Ask me about **PHP, Laravel, MYSQL, JavaScript, React, NodeJS, Python, and Blockchain**
 
 - 📫 How to reach me **syedhaaris97@gmail.com**
 
